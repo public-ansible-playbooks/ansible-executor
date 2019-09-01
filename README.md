@@ -1,4 +1,4 @@
-terraformer
+ansible-executor
 =========
 
 A playbook to setup a local virtual machine to use ansible
